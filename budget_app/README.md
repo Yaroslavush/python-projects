@@ -7,7 +7,7 @@ A Python class for managing personal finances — deposits, withdrawals, transfe
 - Transfer funds between budget categories
 - Check balance and available funds
 - Generate a spending percentage chart for multiple categories
-- Unit tests (pytest) are in progress — will be added by the end of May.
+- Unit tests 
 
 ## Example
 ```python
